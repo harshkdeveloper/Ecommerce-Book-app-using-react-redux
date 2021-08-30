@@ -1,0 +1,1 @@
+export const brands = ["flips","amaze","romantic","fiction","children"];
